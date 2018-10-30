@@ -1,0 +1,300 @@
+Interation : 0
+Initial Fitness: 5.7
+fitness after0 loops: 5.7
+fitness after1 loops: 6.0
+fitness after2 loops: 6.3
+fitness after3 loops: 6.3
+fitness after4 loops: 7.2
+fitness after5 loops: 7.2
+fitness after6 loops: 7.2
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.2
+After evolution :7.2
+Orientation of proj true true false true true true 
+-------------------------------------------------------
+Interation : 1
+Initial Fitness: 6.4
+fitness after0 loops: 6.4
+fitness after1 loops: 7.0
+fitness after2 loops: 7.0
+fitness after3 loops: 7.0
+fitness after4 loops: 7.6000000000000005
+fitness after5 loops: 7.6000000000000005
+fitness after6 loops: 7.6000000000000005
+fitness after7 loops: 7.6000000000000005
+fitness after8 loops: 7.6000000000000005
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 2
+Initial Fitness: 7.0
+fitness after0 loops: 7.0
+fitness after1 loops: 7.2
+fitness after2 loops: 7.2
+fitness after3 loops: 7.2
+fitness after4 loops: 7.2
+fitness after5 loops: 7.2
+fitness after6 loops: 7.2
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.2
+After evolution :7.2
+Orientation of proj true true false true true true 
+-------------------------------------------------------
+Interation : 3
+Initial Fitness: 6.6000000000000005
+fitness after0 loops: 6.6000000000000005
+fitness after1 loops: 6.6000000000000005
+fitness after2 loops: 7.2
+fitness after3 loops: 7.2
+fitness after4 loops: 7.2
+fitness after5 loops: 7.2
+fitness after6 loops: 7.2
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.2
+After evolution :7.2
+Orientation of proj true true false true true true 
+-------------------------------------------------------
+Interation : 4
+Initial Fitness: 6.7
+fitness after0 loops: 6.7
+fitness after1 loops: 6.7
+fitness after2 loops: 7.0
+fitness after3 loops: 7.0
+fitness after4 loops: 7.0
+fitness after5 loops: 7.0
+fitness after6 loops: 7.0
+fitness after7 loops: 7.0
+fitness after8 loops: 7.0
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 5
+Initial Fitness: 7.0
+fitness after0 loops: 7.0
+fitness after1 loops: 7.0
+fitness after2 loops: 7.0
+fitness after3 loops: 7.0
+fitness after4 loops: 7.2
+fitness after5 loops: 7.2
+fitness after6 loops: 7.2
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.2
+After evolution :7.2
+Orientation of proj true true false true true true 
+-------------------------------------------------------
+Interation : 6
+Initial Fitness: 7.6000000000000005
+fitness after0 loops: 7.6000000000000005
+fitness after1 loops: 7.6000000000000005
+fitness after2 loops: 7.6000000000000005
+fitness after3 loops: 7.6000000000000005
+fitness after4 loops: 7.6000000000000005
+fitness after5 loops: 7.6000000000000005
+fitness after6 loops: 7.6000000000000005
+fitness after7 loops: 7.6000000000000005
+fitness after8 loops: 7.6000000000000005
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 7
+Initial Fitness: 6.4
+fitness after0 loops: 6.4
+fitness after1 loops: 7.2
+fitness after2 loops: 7.2
+fitness after3 loops: 7.6000000000000005
+fitness after4 loops: 7.6000000000000005
+fitness after5 loops: 7.6000000000000005
+fitness after6 loops: 7.6000000000000005
+fitness after7 loops: 7.6000000000000005
+fitness after8 loops: 7.6000000000000005
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 8
+Initial Fitness: 6.6000000000000005
+fitness after0 loops: 6.6000000000000005
+fitness after1 loops: 6.6000000000000005
+fitness after2 loops: 6.6000000000000005
+fitness after3 loops: 6.6000000000000005
+fitness after4 loops: 7.2
+fitness after5 loops: 7.2
+fitness after6 loops: 7.2
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.2
+After evolution :7.2
+Orientation of proj true true false true true true 
+-------------------------------------------------------
+Interation : 9
+Initial Fitness: 6.3
+fitness after0 loops: 7.2
+fitness after1 loops: 7.2
+fitness after2 loops: 7.2
+fitness after3 loops: 7.2
+fitness after4 loops: 7.2
+fitness after5 loops: 7.2
+fitness after6 loops: 7.2
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 10
+Initial Fitness: 6.3
+fitness after0 loops: 7.2
+fitness after1 loops: 7.2
+fitness after2 loops: 7.2
+fitness after3 loops: 7.2
+fitness after4 loops: 7.2
+fitness after5 loops: 7.2
+fitness after6 loops: 7.2
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.2
+After evolution :7.2
+Orientation of proj true true false true true true 
+-------------------------------------------------------
+Interation : 11
+Initial Fitness: 5.699999999999999
+fitness after0 loops: 5.8
+fitness after1 loops: 5.699999999999999
+fitness after2 loops: 6.3
+fitness after3 loops: 6.3
+fitness after4 loops: 6.3
+fitness after5 loops: 6.7
+fitness after6 loops: 6.7
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.2
+After evolution :7.2
+Orientation of proj true true false true true true 
+-------------------------------------------------------
+Interation : 12
+Initial Fitness: 6.1000000000000005
+fitness after0 loops: 6.6000000000000005
+fitness after1 loops: 6.7
+fitness after2 loops: 7.2
+fitness after3 loops: 7.6000000000000005
+fitness after4 loops: 7.6000000000000005
+fitness after5 loops: 7.6000000000000005
+fitness after6 loops: 7.6000000000000005
+fitness after7 loops: 7.6000000000000005
+fitness after8 loops: 7.6000000000000005
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 13
+Initial Fitness: 6.3
+fitness after0 loops: 7.2
+fitness after1 loops: 7.2
+fitness after2 loops: 7.2
+fitness after3 loops: 7.2
+fitness after4 loops: 7.2
+fitness after5 loops: 7.2
+fitness after6 loops: 7.2
+fitness after7 loops: 7.2
+fitness after8 loops: 7.2
+fitness after9 loops: 7.2
+After evolution :7.2
+Orientation of proj true true false true true true 
+-------------------------------------------------------
+Interation : 14
+Initial Fitness: 6.1000000000000005
+fitness after0 loops: 7.6000000000000005
+fitness after1 loops: 7.6000000000000005
+fitness after2 loops: 7.6000000000000005
+fitness after3 loops: 7.6000000000000005
+fitness after4 loops: 7.6000000000000005
+fitness after5 loops: 7.6000000000000005
+fitness after6 loops: 7.6000000000000005
+fitness after7 loops: 7.6000000000000005
+fitness after8 loops: 7.6000000000000005
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 15
+Initial Fitness: 6.1000000000000005
+fitness after0 loops: 6.7
+fitness after1 loops: 6.7
+fitness after2 loops: 7.6000000000000005
+fitness after3 loops: 7.6000000000000005
+fitness after4 loops: 7.6000000000000005
+fitness after5 loops: 7.6000000000000005
+fitness after6 loops: 7.6000000000000005
+fitness after7 loops: 7.6000000000000005
+fitness after8 loops: 7.6000000000000005
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 16
+Initial Fitness: 4.6
+fitness after0 loops: 5.8
+fitness after1 loops: 5.8
+fitness after2 loops: 7.0
+fitness after3 loops: 7.0
+fitness after4 loops: 7.0
+fitness after5 loops: 7.0
+fitness after6 loops: 7.0
+fitness after7 loops: 7.0
+fitness after8 loops: 7.0
+fitness after9 loops: 7.0
+After evolution :7.0
+Orientation of proj true false true true false true 
+-------------------------------------------------------
+Interation : 17
+Initial Fitness: 5.5
+fitness after0 loops: 7.6000000000000005
+fitness after1 loops: 7.6000000000000005
+fitness after2 loops: 7.6000000000000005
+fitness after3 loops: 7.6000000000000005
+fitness after4 loops: 7.6000000000000005
+fitness after5 loops: 7.6000000000000005
+fitness after6 loops: 7.6000000000000005
+fitness after7 loops: 7.6000000000000005
+fitness after8 loops: 7.6000000000000005
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
+Interation : 18
+Initial Fitness: 5.8
+fitness after0 loops: 6.7
+fitness after1 loops: 6.7
+fitness after2 loops: 6.7
+fitness after3 loops: 6.7
+fitness after4 loops: 6.7
+fitness after5 loops: 6.7
+fitness after6 loops: 6.7 
+fitness after7 loops: 6.7
+fitness after8 loops: 6.7
+fitness after9 loops: 6.7
+After evolution :6.7
+Orientation of proj false false true true true true 
+-------------------------------------------------------
+Interation : 19
+Initial Fitness: 7.0
+fitness after0 loops: 7.0
+fitness after1 loops: 7.0
+fitness after2 loops: 6.7
+fitness after3 loops: 6.7
+fitness after4 loops: 6.7
+fitness after5 loops: 6.7
+fitness after6 loops: 6.7
+fitness after7 loops: 7.6000000000000005
+fitness after8 loops: 7.6000000000000005
+fitness after9 loops: 7.6000000000000005
+After evolution :7.6000000000000005
+Orientation of proj true false true true true false 
+-------------------------------------------------------
